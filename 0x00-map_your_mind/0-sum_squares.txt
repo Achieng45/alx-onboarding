@@ -1,0 +1,10 @@
+Enter the numbers you want to use
+  int array[n],i,sum=0,int square;
+  printf("Enter the N elements");
+Increament array position
+   for(i=0;i<n;++i)
+Get the square of array values
+   square=array[i]*array[i]
+   printf("%i",square);
+Get the sum
+   sum=sum+square[i];
